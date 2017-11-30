@@ -1,0 +1,24 @@
+{
+	"name": "mailman2-node-wrapper",
+	"version": "1.0.0",
+	"description": "A Node.JS wrapper for Mailman2 Web API.",
+	"main": "lib/index.js",
+	"keywords": [
+		"mailman2",
+		"neiist"
+	],
+	"contributors": [
+		{
+			"name": "Luis Ávila",
+			"email": "filipe@avilaesousa.com"
+		},
+		{
+			"name": "Francisco Catarrinho",
+			"email": "francisco.catarrinho1@gmail.com"
+		}
+	],
+	"license": "MIT",
+	"dependencies": {
+		"request-promise": "^4.2.2"
+	}
+}
